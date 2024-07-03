@@ -165,6 +165,6 @@ Body{
     cursor: pointer;
 }
 
-.card-content >button : :hover{
+.card-content >button :hover{
     background-color:#a52fa5;
 }
